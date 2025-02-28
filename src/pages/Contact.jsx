@@ -10,9 +10,9 @@ function Contact() {
           <h2>Get in Touch</h2>
           <p>Have questions? We're here to help!</p>
           <div className="contact-details">
-            <p>Email: support@investify.com</p>
-            <p>Phone: +91 98765 43210</p>
-            <p>Address: 123 Jonshon Street, Prayagraj, UP India</p>
+            <p>Email: support@Investify.com</p>
+            <p>Phone: +91 8601139977</p>
+            <p>Address: 123 SulemSarai , Prayagraj UP 211012</p>
           </div>
         </div>
         <div className="contact-form">
